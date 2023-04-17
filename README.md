@@ -17,5 +17,6 @@ The application allows users to upload and download files. Uploaded files are st
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
