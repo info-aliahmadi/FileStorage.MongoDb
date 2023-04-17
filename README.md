@@ -6,7 +6,7 @@ This is an ASP.NET Core project that demonstrates how to store files in MongoDB 
 - .NET 7 SDK or later
 - MongoDB database instance
 ## Getting Started
-1. Clone the repository using git clone https://github.com/yourusername/your-repository.git.
+1. Clone the repository using git clone https://github.com/info-aliahmadi/FileStorage.MongoDb.git.
 2. Change directory to the cloned repository using cd your-repository.
 3. Open the appsettings.json file and replace the connection string with your MongoDB instance connection string.
 4. Run the application using dotnet run.
